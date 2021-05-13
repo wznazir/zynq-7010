@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Jan 29 20:33:24 2019
+# Process ID: 24812
+# Current directory: D:/7020test/EBAZ4205
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18376 D:\7020test\EBAZ4205\EBAZ4205.xpr
+# Log file: D:/7020test/EBAZ4205/vivado.log
+# Journal file: D:/7020test/EBAZ4205\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/7020test/EBAZ4205/EBAZ4205.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:05 . Memory (MB): peak = 751.781 ; gain = 66.684
+update_compile_order -fileset sources_1
+launch_sdk -workspace D:/7020test/EBAZ4205/EBAZ4205.sdk -hwspec D:/7020test/EBAZ4205/EBAZ4205.sdk/EBAZ4205_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace D:/7020test/EBAZ4205/EBAZ4205.sdk -hwspec D:/7020test/EBAZ4205/EBAZ4205.sdk/EBAZ4205_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jan 29 20:55:21 2019...

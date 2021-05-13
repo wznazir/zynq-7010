@@ -1,0 +1,10 @@
+13:34:45 **** Incremental Build of configuration Debug for project lwip_test ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+13:34:53 **** Auto Build of configuration Debug for project lwip_test ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.

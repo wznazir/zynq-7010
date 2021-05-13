@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;lwip_test/src/xgpiops_polled_example.c&apos; to &apos;led_button.c&apos;" description="Rename resource &apos;xgpiops_polled_example.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/xgpiops_polled_example.c" name="led_button.c" stamp="1553675583823" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;lwip_test/src/xilffs_polled_example.c&apos; to &apos;sd.c&apos;" description="Rename resource &apos;xilffs_polled_example.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/xilffs_polled_example.c" name="sd.c" stamp="1553675599019" updateReferences="true"/>
+</session>

@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../EBAZ4205.srcs/sources_1/bd/EBAZ4205/ipshared/ec67/hdl" --include "../../../../EBAZ4205.srcs/sources_1/bd/EBAZ4205/ipshared/02c8/hdl/verilog" --include "../../../../EBAZ4205.srcs/sources_1/bd/EBAZ4205/ipshared/1313/hdl" --include "D:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" \
+"../../../../EBAZ4205.srcs/sources_1/bd/EBAZ4205/ip/EBAZ4205_processing_system7_0_0/sim/EBAZ4205_processing_system7_0_0.v" \
+"../../../../EBAZ4205.srcs/sources_1/bd/EBAZ4205/sim/EBAZ4205.v" \
+"../../../../EBAZ4205.srcs/sources_1/bd/EBAZ4205/hdl/EBAZ4205_wrapper.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
