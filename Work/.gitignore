@@ -1,0 +1,8 @@
+# Exclude all
+*/*
+
+# Except 
+!**/*.xpr
+!**/*.wcfg
+!**/*.bit
+!**/*.ltx

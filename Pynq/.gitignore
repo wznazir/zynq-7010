@@ -1,0 +1,4 @@
+# Exclude python temps
+
+**/.ipynb_checkpoints/*
+**/__pycache__/*
